@@ -1,2 +1,2 @@
-# tutoReactRedux
+# tuto
 Created with CodeSandbox
